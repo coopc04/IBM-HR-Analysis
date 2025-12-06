@@ -1,6 +1,9 @@
 # IBM-HR-Analysis
 
-[IBM HR Portfolio Project.pdf](https://github.com/user-attachments/files/24000589/IBM.HR.Portfolio.Project.pdf)
+<img width="1485" height="855" alt="image" src="https://github.com/user-attachments/assets/af33680a-74ef-4bad-bbbc-2dc80a256493" />
+
+<img width="1487" height="862" alt="image" src="https://github.com/user-attachments/assets/e2fe1f53-47de-4b94-967c-18d85db896f0" />
+
 
 <img width="1683" height="738" alt="image" src="https://github.com/user-attachments/assets/907aa78e-956c-499b-8f15-a2fedbe6d5d2" />
 
